@@ -1,0 +1,73 @@
+You are to write a final report, summarizing the results of the assigned exercises. This should include a section corresponding roughly to each exercise, i.e 
+1. Introduction
+2.1 The Solar Resource for Rome, Italy
+2.2 K_t the clearness index. 
+2.3 The Solar Resource - at tilt = 42 degrees.
+3. PV Array size - attending to loss of load probability. 
+4. Electrical load specification and battery storage requirements.
+5. Benefits and costs: Compare net present value of benefit stream with initial cost. Include financial incentives, if available.1 
+6. Conclusion.
+7. Appendix
+
+What are the steps
+
+1. Introduction: Provide an overview of the project, including its purpose, scope, and objectives.
+
+2.1 The Solar Resource for Rome, Italy: Describe the solar resource in Rome, Italy, including the average daily solar irradiance, the clearness index, and other relevant data.
+
+2.2 K_t the clearness index: Explain the concept of the clearness index, how it is calculated, and how it can be used to assess the solar resource in Rome.
+
+2.3 The Solar Resource - at tilt = 48 degrees: Describe how the solar resource changes when the tilt angle of the PV array is adjusted to 48 degrees.
+
+3. PV Array size - attending to loss of load probability: Explain how the size of the PV array is determined based on the desired loss of load probability.
+
+4. Electrical load specification and battery storage requirements: Describe the electrical load specifications and battery storage requirements for the system.
+
+5. Benefits and costs: Compare the net present value of the benefit stream with the initial cost of the system, including any financial incentives that may be available.
+
+6. Conclusion: Summarize the results of the project and discuss any potential implications or applications.
+
+
+
+Konumunuz için tipik meteorolojik verileri indirin (yılın en kötü ayı/ayları için ayrı bir set 
+oluşturun). 
+o İlgilendiğiniz ay(lar) için Yatay akı, watt-saat/m2 için saatlik verileri çıkarın 
+o (Clearnes index) netlik indeksi için aylık değerleri hesaplayın. Herhangi bir ay için uzun yıllar 
+değerinde veri olduğunu unutmayın, bu nedenle en azından bazı yılları kullanarak KT
+tahmininde bir ortalama (ortalama!) oluşturun ve verilerin “yayılımı” hakkında bir grafiksel 
+analiz yapın. 
+o Sistemdeki ortalama günlük yük 10 kilo watt saat, günlük profil bilinmiyor, ancak yılın her 
+günü için aynı. Diziyi, sistemin yılın en kötü ayı için gereken enerjiyi sağlayacak şekilde 
+boyutlandırın. 
+o Bunu, seçtiğiniz bir eğim açısında akı için yalnızca aylık, ortalama günlük değerleri kullanarak 
+yapın. 
+o Yani günlük bir yük profili varsayarsanız, bir yıl boyunca saatlik grafik irdelemesi yapabilirsiniz. 
+Ama sistemi en kötü ay için boyutlandırıyorsanız, yalnızca o ay için saatlik bir analiz yapın. 
+o Toplam yatay akının günlük değerlerini hesaplamak için toplamları yapın. 
+o Bu 28, 30 veya 31 değer kümesinin ortalamasını ve standart sapmasını hesaplayın. 
+o Toplam günlük yük için bir değer seçin. 
+o Evinizdeki tüm elektrikle çalışanlar için bir envanterini yapın. 
+o Yılın iki mevsimi için günlük bir yük profili tahmin edin - güneş enerjisi için en kötü ay ve en iyi 
+ay 
+o akı (sabit dizi eğiminizde). 
+o Pv dizinizi ve pil depolamanızı, pili bitirme şansınız ancak %1 olacak şekilde "boyutlandırın". 
+Not: İyi bir gün ve kötü bir gün için olasılıkları yatay bir varsayımla elde ettiğiniz gibi alın. 
+o dizi ve belirtilen yükünüzü verin, ancak şimdi diziyi, seçtiğiniz eğimde akıyı kullanarak 
+boyutlandırın - ortalama dizi çıkışının farkını eğimde ve yükte aynı tutun. 
+o Web'i bir kaynak olarak kullanarak sisteminizin maliyetini azaltın. 
+o Fotovoltaik kurmak için herhangi bir teşvik olup olmadığını belirleyin. Varsa nasıl bunlar 
+maliyet tahminlerinizi değiştiriyor mu?
+
+Özet:
+• Yatay akı, watt-saat/m2 için saatlik verileri çıkarın.
+• (Clearnes index) netlik indeksi için aylık değerleri hesaplayın.
+• Sistemdeki ortalama günlük yük 10 kilo watt saat, günlük profil bilinmiyor, ancak yılın her 
+günü için aynı.
+• Yılın iki mevsimi için günlük bir yük profili tahmin edin - güneş enerjisi için en kötü ay ve en 
+iyi ay akı (sabit dizi eğiminizde).
+• Evinizdeki tüm elektrikle çalışanlar için bir envanterini yapın.
+• Toplam günlük yük için bir değer seçin.
+• Pv dizinizi ve pil depolamanızı, pili bitirme şansınız ancak %1 olacak şekilde "boyutlandırın".
+• Web'i bir kaynak olarak kullanarak sisteminizin maliyetini azaltın.
+• Fotovoltaik kurmak için herhangi bir teşvik olup olmadığını belirleyin. Varsa nasıl bunlar 
+maliyet tahminlerinizi değiştiriyor mu?
